@@ -1,2 +1,2 @@
-# Print hello world to the user
+# hello_world.py
 print("hello world")
